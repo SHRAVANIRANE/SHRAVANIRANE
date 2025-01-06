@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1718841600&v=beta&t=5TjTlp_PMNydd6_pCPYfQpF-Jrkc5WY7OVBs-cCDNpw)
 <h1 align="center">Hi 👋, I'm Shravani Rane</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
