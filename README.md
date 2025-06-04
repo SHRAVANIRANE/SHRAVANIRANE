@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shravani Rane</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif](https://res.cloudinary.com/dvq8qukci/image/upload/v1749049514/output-onlinegiftools_qomuyl.gif)">
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dvq8qukci/image/upload/v1749049514/output-onlinegiftools_qomuyl.gif">
 
 - 🌱 I’m currently learning **React**
 
