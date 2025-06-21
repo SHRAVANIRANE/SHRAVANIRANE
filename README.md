@@ -5,10 +5,7 @@
 
 - 🌱 I’m currently **building exciting real-world projects**
 - 🔭 I’m currently **Exploring Machine Learning**
-- 📫 Reach me at: **raneshravani21@gmail.com**
-
-
-
+- 
 <h3 align="left">📫 How to reach me: </h3>
 
 <p align="left">
