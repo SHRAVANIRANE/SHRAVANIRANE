@@ -98,9 +98,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shravanirane&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<!-- Light Mode -->
 <p align="center">
-  <img src="[https://streak-stats.demolab.com/?user=shravanirane&theme=default](https://github-readme-streak-stats.herokuapp.com/?user=shravanirane)" alt="GitHub Streak" height="180" data-theme="light" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=shravanirane&theme=tokyonight">
+    <img src="https://streak-stats.demolab.com/?user=shravanirane&theme=default" alt="GitHub Streak" height="180">
+  </picture>
 </p>
 
 
