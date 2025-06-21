@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dvq8qukci/image/upload/v1749049514/output-onlinegiftools_qomuyl.gif">
 
 - 🌱 I’m currently **building exciting real-world projects**
-- 🔭 I’m currently **Exploring Machine Learning**
+- 🔭 **Exploring Machine Learning**
 <h3 align="left">📫 How to reach me: </h3>
 
 <p align="left">
