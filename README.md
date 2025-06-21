@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently **building exciting real-world projects**
 - 🔭 I’m currently **Exploring Machine Learning**
-- 
 <h3 align="left">📫 How to reach me: </h3>
 
 <p align="left">
