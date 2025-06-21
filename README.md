@@ -187,27 +187,6 @@
 
 ---
 <h3 align="center">📊 GitHub Stats : </h3>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://streak-stats.demolab.com/?user=shravanirane&theme=tokyonight" />
-    <img src="https://streak-stats.demolab.com/?user=shravanirane&theme=default" 
-         alt="GitHub Streak" height="180" />
-  </picture>
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=shravanirane&show_icons=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api?username=shravanirane&show_icons=true&theme=default" 
-         alt="GitHub Stats" height="180" />
-  </picture>
-</p>
-
 <!-- Top Languages -->
 <p align="center">
   <picture>
@@ -218,6 +197,16 @@
   </picture>
 </p>
 
+
+<!-- GitHub Streak -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://streak-stats.demolab.com/?user=shravanirane&theme=tokyonight" />
+    <img src="https://streak-stats.demolab.com/?user=shravanirane" 
+         alt="GitHub Streak" height="180" />
+  </picture>
+</p>
 
 
 
