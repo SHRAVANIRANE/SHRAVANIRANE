@@ -98,8 +98,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shravanirane&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
+<!-- Dark Mode -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanirane&" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=shravanirane&theme=tokyonight" alt="GitHub Streak" height="180" data-theme="dark" />
 </p>
+
+<!-- Light Mode -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shravanirane&theme=default" alt="GitHub Streak" height="180" data-theme="light" />
+</p>
+
 
 
