@@ -100,10 +100,10 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=shravanirane&theme=tokyonight">
-    <img src="https://streak-stats.demolab.com/?user=shravanirane&theme=default" alt="GitHub Streak" height="180">
+    <img src="https://streak-stats.demolab.com/?user=shravanirane" alt="GitHub Streak" height="180">
   </picture>
 </p>
+
 
 
 
