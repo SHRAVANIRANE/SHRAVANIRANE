@@ -97,7 +97,7 @@
 
 <p align="center">
   <picture>
-    <img src="![GitHub Streak](streak-stats.demolab.com?user=shravanirane)" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=shravanirane" alt="GitHub Streak" />
   </picture>
 </p>
 
