@@ -97,7 +97,7 @@
 
 <p align="center">
   <picture>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanirane" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.vercel.app?user=shravanirane" alt="GitHub Streak" />
   </picture>
 </p>
 
