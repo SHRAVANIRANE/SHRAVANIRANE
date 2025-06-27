@@ -19,14 +19,6 @@
   <a href="https://instagram.com/shravaniirane">
     <img src="https://img.shields.io/badge/Instagram-@shravaniirane-purple?style=flat&logo=instagram"/>
   </a>
-
-  <a href="https://www.hackerrank.com/raneshravani21" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=HackerRank&logoColor=white"/>
-  </a>
-
-  <a href="https://leetcode.com/Shravani_Rane21" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=LeetCode&logoColor=white"/>
-  </a>
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
