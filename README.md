@@ -87,11 +87,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shravanirane&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <picture>
-    <img src="https://streak-stats.demolab.com/?user=shravanirane" alt="GitHub Streak" />
-  </picture>
-</p>
 
 
 
