@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shravani</h1>
-<h3 align="center">A Passionate Developer from India</h3>
+<h3 align="center">A Passionate Developer From India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dvq8qukci/image/upload/v1749049514/output-onlinegiftools_qomuyl.gif">
 
