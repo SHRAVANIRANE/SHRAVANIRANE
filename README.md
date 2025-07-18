@@ -84,7 +84,14 @@
 <h3 align="center">📊 GitHub Stats : </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shravanirane&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+ <picture>
+  <!-- Dark mode -->
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shravanirane&layout=compact&theme=github_dark&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+  
+  <!-- Light mode -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shravanirane&layout=compact&theme=default" alt="Top Languages" />
+</picture>
+
 </p>
 
 
