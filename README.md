@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shravani</h1>
 <h2 align="center">A Passionate Developer from India 🚀</h2>
 
----
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dvq8qukci/image/upload/v1749049514/output-onlinegiftools_qomuyl.gif" />
 
@@ -27,6 +26,7 @@
     <img src="https://img.shields.io/badge/Discord-shraavaniii-5865F2?style=flat&logo=discord&logoColor=white" />
   </a>
 </p>
+<br>
 <br>
 <br>
 <br>
