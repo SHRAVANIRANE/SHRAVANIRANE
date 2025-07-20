@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shravani</h1>
-<h2 align="center">A Passionate Developer from India 🚀</h2>
+<h2 align="center">A Passionate Developer from India </h2>
 
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dvq8qukci/image/upload/v1749049514/output-onlinegiftools_qomuyl.gif" />
 
 - 🌱 I’m currently **building full-stack projects**
-- 🔭 I’m diving deeper into **Machine Learning & AI**
+- 🔭 I’m exploring **Machine Learning & AI**
 
 
 
@@ -61,7 +61,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
@@ -82,5 +81,3 @@
   <img src="https://raw.githubusercontent.com/shravanirane/shravanirane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-
-<h3 align="center">✨ Let's Connect and Build Something Awesome Together!</h3>
