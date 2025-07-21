@@ -16,9 +16,6 @@
   <a href="mailto:raneshravani21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-raneshravani21%40gmail.com-red?style=flat&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="left">
   <a href="https://www.linkedin.com/in/shravaniirane2122">
     <img src="https://img.shields.io/badge/LinkedIn-Shravani%20Rane-blue?style=flat&logo=linkedin" />
   </a>
@@ -28,9 +25,6 @@
   <a href="https://instagram.com/shravaniirane">
     <img src="https://img.shields.io/badge/Instagram-@shravaniirane-purple?style=flat&logo=instagram" />
   </a>
-</p>
-
-<p align="left">
   <a href="https://discord.com/users/shraavaniii">
     <img src="https://img.shields.io/badge/Discord-shraavaniii-5865F2?style=flat&logo=discord&logoColor=white" />
   </a>
@@ -41,8 +35,7 @@
     <img src="https://img.shields.io/badge/X-@shrraavanirane-000000?style=flat&logo=twitter&logoColor=white" />
   </a>
 </p>
-<br>
-<br>
+
 <br>
 <br>
 <br>
