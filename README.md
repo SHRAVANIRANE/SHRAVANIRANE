@@ -25,6 +25,10 @@
   <a href="https://discord.com/users/shraavaniii">
     <img src="https://img.shields.io/badge/Discord-shraavaniii-5865F2?style=flat&logo=discord&logoColor=white" />
   </a>
+  <a href="https://x.com/shrraavanirane">
+  <img src="https://img.shields.io/badge/X-@shrraavanirane-000000?style=flat&logo=twitter&logoColor=white" />
+</a>
+
 </p>
 <br>
 <br>
