@@ -19,12 +19,16 @@
   <a href="https://www.linkedin.com/in/shravaniirane2122">
     <img src="https://img.shields.io/badge/LinkedIn-Shravani%20Rane-blue?style=flat&logo=linkedin" />
   </a>
+</p>
+<p align="left">
   <a href="https://instagram.com/shravaniirane">
     <img src="https://img.shields.io/badge/Instagram-@shravaniirane-purple?style=flat&logo=instagram" />
   </a>
   <a href="https://discord.com/users/shraavaniii">
     <img src="https://img.shields.io/badge/Discord-shraavaniii-5865F2?style=flat&logo=discord&logoColor=white" />
   </a>
+</p>
+<p align="left">
   <a href="https://x.com/shrraavanirane">
     <img src="https://img.shields.io/badge/X-@shrraavanirane-000000?style=flat&logo=twitter&logoColor=white" />
   </a>
