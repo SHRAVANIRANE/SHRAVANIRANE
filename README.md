@@ -11,7 +11,7 @@
 
 
 <h3 align="left">📫 Connect with me</h3>
-<pre>
+
 <p align="left">
   <a href="mailto:raneshravani21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-raneshravani21%40gmail.com-red?style=flat&logo=gmail&logoColor=white" />
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/X-@shrraavanirane-000000?style=flat&logo=twitter&logoColor=white" />
   </a>
 </p>
-</pre>
+
 
 <br>
 <br>
