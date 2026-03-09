@@ -97,13 +97,10 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 Top Languages</h3>
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shravanirane&layout=compact&theme=github_dark&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shravanirane&layout=compact&theme=default" alt="Top Languages" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanirane&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
 </p>
 
 <p align="center">
