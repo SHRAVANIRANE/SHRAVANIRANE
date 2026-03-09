@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dvq8qukci/image/upload/v1749049514/output-onlinegiftools_qomuyl.gif" />
 
-🌱 I’m currently **building full-stack projects**
+🌱 I’m currently **building full-stack projects** <br>
 🔭 And I’m also exploring **Machine Learning**
 
 
