@@ -1,11 +1,11 @@
-<h1 align="center">Hiii 👋, I'm Shravani</h1>
+<h1 align="center">Hiii 👋 I'm Shravani</h1>
 <h2 align="center">A Passionate Developer from India </h2>
 
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dvq8qukci/image/upload/v1749049514/output-onlinegiftools_qomuyl.gif" />
 
-- 🌱 I’m currently **building full-stack projects**
-- 🔭 And I’m also exploring **Machine Learning**
+🌱 I’m currently **building full-stack projects**
+🔭 And I’m also exploring **Machine Learning**
 
 
 
