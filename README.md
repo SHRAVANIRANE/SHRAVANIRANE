@@ -1,13 +1,13 @@
 <h1 align="center">Hiii 👋 I'm Shravani</h1>
 <h2 align="center">A Passionate Developer from India </h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=7F3FBF&center=true&vCenter=true&width=600&lines=building+cool+stuff;figuring+things+out" />
+</p>
 
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dvq8qukci/image/upload/v1749049514/output-onlinegiftools_qomuyl.gif" />
-
-🌱 I’m currently **building full-stack projects** <br>
-🔭 And I’m also exploring **Machine Learning**
-
-
+ 
+🌱 currently exploring **ai + machine learning** <br>
+🔭 trying to make systems a little smarter
 
 
 <h3 align="left">📫 Connect with me!</h3>
@@ -33,6 +33,10 @@
     <img src="https://img.shields.io/badge/X-@shrraavanirane-000000?style=flat&logo=twitter&logoColor=white" />
   </a>
 </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shravanirane&label=profile+views&color=0e75b6&style=flat" />
+</p>
+
 
 
 <br>
