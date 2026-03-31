@@ -43,9 +43,6 @@
 <br>
 <br>
 
-<p align="center">
-  <i>"figuring it out — and that’s the point"</i>
-</p>
 
 ---
 
