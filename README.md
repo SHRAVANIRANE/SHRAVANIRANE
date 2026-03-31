@@ -1,6 +1,6 @@
-<h1 align="center">Hiii 👋 I'm Shravani</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:24243e&height=200&section=header&text=Hiii 👋 I'm Shravani&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 <h2 align="center">A Passionate Developer from India </h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=7F3FBF&center=true&vCenter=true&width=1000&lines=building+cool+stuff;figuring+things+out" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=7F3FBF&center=true&vCenter=true&width=1000&lines=building+cool+stuff;figuring+things+out" />
 </p>
 
 
