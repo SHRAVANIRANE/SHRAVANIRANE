@@ -43,6 +43,10 @@
 <br>
 <br>
 
+<p align="center">
+  <i>"figuring it out — and that’s the point"</i>
+</p>
+
 ---
 
 <h2 align="center">💻 Tech Stack & Tools</h2>
