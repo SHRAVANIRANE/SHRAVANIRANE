@@ -1,6 +1,6 @@
 <h1 align="center">Hiii 👋 I'm Shravani</h1>
 <h2 align="center">A Passionate Developer from India </h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=7F3FBF&center=true&vCenter=true&width=800&lines=building+cool+stuff;figuring+things+out" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=7F3FBF&center=true&vCenter=true&width=1000&lines=building+cool+stuff;figuring+things+out" />
 </p>
 
 
