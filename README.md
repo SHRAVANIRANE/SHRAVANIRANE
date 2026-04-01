@@ -36,10 +36,11 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shravanirane&label=profile+views&color=0e75b6&style=flat" />
 </p>
-
-
-
 <br>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
 <br>
 <br>
 
