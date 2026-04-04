@@ -1,5 +1,5 @@
-<h1 align="center">Hiii 👋 I'm Shravani</h1>
-<h2 align="center">A Passionate Developer from India </h2>
+<h1 align="center">Hiii <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Shravani</h1>
+<h2 align="center">A Passionate Developer from India!</h2>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=7F3FBF&center=true&vCenter=true&width=1000&lines=building+cool+stuff;figuring+things+out" />
 </p>
 
@@ -39,6 +39,18 @@
 <br>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+</p>
+
+
+<h2 align="center">⚡ Current Status</h2>
+
+<p align="center">
+  <a href="https://github.com/shravanirane/mlops-drift-monitor">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shravanirane&repo=mlops-drift-monitor&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building%20AI%20Systems-7F3FBF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-MLOps%20%7C%20AI%20Agents-blue?style=flat-square" />
 </p>
 
 ---
@@ -117,10 +129,21 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shravanirane&layout=compact&hide_border=true" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanirane&theme=tokyo-night&hide_border=true" />
+</p>
+
+
 ---
 
 <h2>🐍 Contribution Snake</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/shravanirane/shravanirane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+
+
+
+
 
