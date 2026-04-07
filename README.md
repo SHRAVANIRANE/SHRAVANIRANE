@@ -41,18 +41,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
 </p>
 
-
-<h2 align="center">⚡ Current Status</h2>
-
-<p align="center">
-  <a href="https://github.com/shravanirane/mlops-drift-monitor">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shravanirane&repo=mlops-drift-monitor&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20AI%20Systems-7F3FBF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-MLOps%20%7C%20AI%20Agents-blue?style=flat-square" />
-</p>
-
 ---
 
 <h2 align="center">💻 Tech Stack</h2>
