@@ -112,7 +112,7 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shravanirane&show_icons=true&hide_border=true&theme=dark" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanirane&hide_border=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanirane&hide_border=true&theme=github_dark" />
   <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shravanirane&layout=compact&hide_border=true&theme=dark" />
 </p>
