@@ -108,17 +108,9 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shravanirane&show_icons=true&hide_border=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanirane&hide_border=true&theme=github-dark" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanirane&hide_border=true&theme=github_dark" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shravanirane&layout=compact&hide_border=true&theme=dark" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanirane&theme=tokyo-night&hide_border=true" />
-</p>
-
 
 ---
 
